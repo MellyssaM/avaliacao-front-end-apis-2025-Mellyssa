@@ -80,8 +80,11 @@ Serão avaliados os seguintes pontos:
 ![Wiframe](./assests/loginfront.png)
 ![Wiframe](./assests/postFront.png)
 ![Wiframe](./assests/informationsFront.png)
+![Wiframe](./assests/SearchFront.png)
+
 
 ## Wiframe Responsivo
 ![Wiframe](./assests/responsiveLogin.png)
 ![Wiframe](./assests/responsivePost.png)
 ![Wiframe](./assests/responsiveInformation.png)
+![Wiframe](./assests/responsiveSearch.png)
